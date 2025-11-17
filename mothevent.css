@@ -1,0 +1,15 @@
+.search.ng-untouched.ng-pristine.ng-valid.ng-star-inserted {
+    visibility:hidden;
+}
+
+.event-price.ng-star-inserted {
+    display:none;
+}
+
+.promo-code-input-wrapper {
+    color: black !important;
+}
+
+.promo-code-link {
+    color: black !important;
+}
