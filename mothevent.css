@@ -19,5 +19,5 @@
 }
 
 .error-text{
-    display: none !important
+    visibility:hidden;
 }
