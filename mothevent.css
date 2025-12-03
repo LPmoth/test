@@ -17,3 +17,7 @@
 .floating-label{
     font-size: 10px;
 }
+
+.error-text{
+    display: none
+}
